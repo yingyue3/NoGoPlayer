@@ -14,3 +14,17 @@ Xinran Li      |     xinran1     |    1619042
 Lingrui Zhou   |     lingrui     |    1619735
 
 The team mainly contributed to file gain.weight, mcts.py and nogo4.py.
+
+# Command and Run
+In order to run the program, type python3 nogo4.py in the terminal.
+
+The program mainly use GTP command to control.
+
+Command       |         Action
+-- | -- 
+genmove b?w? | generate the next best move. This process is limited to 30sec
+play b?w? A4 | paly at the board
+quit | quit the game
+reset | reset the board
+boardsize | adjust the board size. The default is  7x7
+showboard | show the current game board
