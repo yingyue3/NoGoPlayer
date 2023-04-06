@@ -8,7 +8,7 @@ This player use MCTS methods to pick from simulation result.
 **This project is mainly creadited to**
 
 Name       |         email         
--- | -- | --
+-- | -- 
 Yingyue Cao    |     yingyue3@ualberta.ca    
 Xinran Li      |     xinran1@ualberta.ca
 Lingrui Zhou   |     lingrui@ualberta.ca
