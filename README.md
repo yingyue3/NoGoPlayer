@@ -7,11 +7,11 @@ This player use MCTS methods to pick from simulation result.
 
 **This project is mainly creadited to**
 
-Name       |         CCID       |     StudentID  
+Name       |         email         
 -- | -- | --
-Yingyue Cao    |     yingyue3    |    1626858
-Xinran Li      |     xinran1     |    1619042
-Lingrui Zhou   |     lingrui     |    1619735
+Yingyue Cao    |     yingyue3@ualberta.ca    
+Xinran Li      |     xinran1@ualberta.ca
+Lingrui Zhou   |     lingrui@ualberta.ca
 
 The team mainly contributed to file gain.weight, mcts.py and nogo4.py.
 
