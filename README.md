@@ -13,7 +13,7 @@ Yingyue Cao    |     yingyue3@ualberta.ca
 Xinran Li      |     xinran1@ualberta.ca
 Lingrui Zhou   |     lingrui@ualberta.ca
 
-The team mainly contributed to file gain.weight, mcts.py and nogo4.py.
+The team mainly contributed to file gain_weight.py, mcts.py and nogo4.py.
 
 # Command and Run
 In order to run the program, type python3 nogo4.py in the terminal.
