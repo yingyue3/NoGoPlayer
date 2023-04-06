@@ -23,7 +23,7 @@ The program mainly use GTP command to control.
 Command       |         Action
 -- | -- 
 genmove b?w? | generate the next best move. This process is limited to 30sec
-play b?w? A4 | paly at the board
+play b?w? A4 | play at the board
 quit | quit the game
 reset | reset the board
 boardsize | adjust the board size. The default is  7x7
